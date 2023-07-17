@@ -14,7 +14,7 @@ description              : &description "Ph.D. Studnet at University of Toronto"
 url                      : https://Jack-XHP.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jack-XHP/Jack-XHP.github.io"
-teaser                   : "hx.jpg"
+teaser                   : 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Haoping Xu"
-  avatar           : "HaopingXu.png"
+  avatar           : "hx.jpg"
   bio              : "Ph.D. student at University of Toronto. Research focus: perception and robot planning for transparent objects in lab automation setting"
   location         : "Toronto, ON"
   employer         :
