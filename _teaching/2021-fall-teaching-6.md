@@ -2,7 +2,7 @@
 title: "CSC420: Introduction to Image Understanding"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-fall-teaching-1
+permalink: /teaching/2021-fall-teaching-6
 venue: "University of Toronto, Computer Science"
 date: 2021-09-01
 location: "Toronto, Canada"

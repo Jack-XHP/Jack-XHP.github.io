@@ -2,7 +2,7 @@
 title: "CSC317: Computer Graphics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-winter-teaching-34
+permalink: /teaching/2020-winter-teaching-4
 venue: "University of Toronto, Computer Science"
 date: 2021-01-01
 location: "Toronto, Canada"
