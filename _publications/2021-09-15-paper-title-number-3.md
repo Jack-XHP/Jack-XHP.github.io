@@ -1,0 +1,11 @@
+---
+title: "Predicting 3D shapes, masks, and properties of materials, liquids, and objects inside transparent containers, using the TransProteus CGI dataset"
+collection: publications
+permalink: /publication/2021-09-15-paper-title-number-3
+excerpt: ''
+date: 2021-09-15
+venue: 'Digital Discovery'
+paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2022/dd/d1dd00014d'
+citation: 'Eppel, Sagi, Haoping Xu, Yi Ru Wang, and Alan Aspuru-Guzik. “Predicting 3D Shapes, Masks, and Properties of Materials inside Transparent Containers, Using the TransProteus CGI Dataset.” Digital Discovery 1, no. 1'
+---
+We present TransProteus, a dataset, and methods for predicting the 3D structure, annotations and properties of materials inside transparent vessels from a single image. Manipulating materials in containers is essential in most areas of experimental chemistry and depends heavily on vision. Training computer vision to recognize specific properties and shapes demands large annotated datasets. Manually annotated datasets are limited in size and cannot accurately account for 3D structures and continuous material properties (such as transparency). This work supplies a new procedurally generated dataset consisting of 50k images of liquids and solid materials inside transparent containers. The image annotations include 3D models, material properties (color/transparency/roughness…), and segmentation masks for the vessel and its content. The synthetic (CGI) part of the dataset was procedurally generated using 13k different objects, 500 different environments (HDRI), and 1450 material textures (PBR) combined with simulated liquids and procedurally generated vessels. In addition, we supply 104 real-world images of objects inside transparent vessels with depth maps of both the vessel and its content. We demonstrate a net that uses a single image to predict the visual material properties. We propose a method that predicts 3D models from an image as an XYZ map. This allows the trained net to predict the 3D model as a map with XYZ coordinates per pixel without prior knowledge of the image source. We use this to predict 3D models of the materials in the vessel and the vessel, using a single image.
